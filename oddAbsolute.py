@@ -26,7 +26,7 @@ def calculateAbsolute():
             continue
 
     difference = absoluteDifference(in_num)
-    print(difference)
+    print("Result: {}".format(difference))
     # end assignment
 
 ## if you want to test locally before you try to sync
